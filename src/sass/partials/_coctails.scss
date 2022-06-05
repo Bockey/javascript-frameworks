@@ -1,0 +1,13 @@
+.coctails {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  a {
+    text-decoration: none;
+  }
+  .card-title,
+  .card-text {
+    margin: 0.3rem;
+    color: black;
+  }
+}

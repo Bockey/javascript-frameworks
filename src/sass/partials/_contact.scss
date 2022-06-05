@@ -1,0 +1,14 @@
+.contact {
+  form,
+  label {
+    display: flex;
+    flex-direction: column;
+  }
+  form {
+    max-width: 500px;
+    gap: 0.5rem;
+    button {
+      width: 200px;
+    }
+  }
+}

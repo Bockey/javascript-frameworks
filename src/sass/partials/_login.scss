@@ -1,0 +1,14 @@
+.login {
+  fieldset {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    gap: 0.5rem;
+    input {
+      width: 100%;
+    }
+    button {
+      width: 200px;
+    }
+  }
+}
